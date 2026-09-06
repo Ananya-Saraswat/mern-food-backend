@@ -122,6 +122,14 @@ npm start
 
 The API runs at `http://localhost:5000` by default.
 
+## 🔗 Frontend Repository
+
+**Frontend:** 🔗 [Click here to view the frontend repository](https://github.com/Ananya-Saraswat/mern-food-frontend)
+
+*The frontend provides the user interface for browsing the menu, searching dishes, managing the cart, authentication, and placing orders.*
+
+---
+
 ## 🔌 API Reference
 
 ### Health and root
